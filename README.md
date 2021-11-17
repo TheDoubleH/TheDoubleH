@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   My repros here will be mostly related to Microsoft Dynamics 365 Business Central. Anything PowerShell you find here will be me hacking at best
 
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/TheDoubleH/) [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/TheDoubleH)
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=Blog)](https://thedoubleh.dev) [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/TheDoubleH/) [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/TheDoubleH)
 
 ### My Github Contributions
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
